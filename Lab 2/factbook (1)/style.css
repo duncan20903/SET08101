@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+.world_map{width:499px;height:361px}
+.nauru{width:300px;height:200px}
+.iceland{width:300px;height:200px}
+.chad{width:300px;height:200px}
+.estonia{width:300px;height:200px}
+
+
+nav ul{list-style-type:none}
+nav ul li{float:left;width:120px;height:20px;text-align:center}
+nav ul li a{display:block;padding:5px}
